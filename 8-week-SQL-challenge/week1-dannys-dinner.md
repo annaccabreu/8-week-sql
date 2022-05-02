@@ -301,6 +301,4 @@ FROM members_menu_sales
 ORDER BY customer_id,order_date
 ```
 
-## :bulb: Recommendations
-
 
