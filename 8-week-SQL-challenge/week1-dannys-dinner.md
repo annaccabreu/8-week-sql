@@ -47,12 +47,18 @@ Maps orders made by customers to the products they ordered and the date the orde
 
 #### Menu
 
-Contains the product id, its corresponding name and price
+- product_id: id of the profuct
+- product_name: name of product
+- price: price of product
+
 <p align="center">
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/84375882/165107188-57b7a6db-419b-4a5b-b2be-452898bba19b.png">
 </p>
 
 #### Members
+
+- customer_id: Id of customer
+- join_date: Date customer joined loyalty program
 
 Member's id along with date they joined Danny's Diner's loyaly program
 <p align="center">
@@ -60,6 +66,10 @@ Member's id along with date they joined Danny's Diner's loyaly program
 </p>
 
 ## :link: Entity-Relationship Diagram
+
+- product_id: map id of product
+- customer_id: id of customer
+- order_date: date order took place
 
 <p align="center">
 <img width="528" alt="image" src="https://user-images.githubusercontent.com/84375882/165112251-d4b1e536-6436-4346-aa19-3f5f9277b00e.png">
