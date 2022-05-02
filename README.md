@@ -1,6 +1,6 @@
 # serious-sql
 
-The following 8 case studies were created by Danny as part of the 8 Week SQL Challenge.
+The following case studies were created by Danny Ma as part of his 8 Week SQL Challenge. You can find all the cases as well as additional resources to learn SQL <a href="https://8weeksqlchallenge.com/">here </a>.
 
 ## Week 1 - Danny's Diner
 
