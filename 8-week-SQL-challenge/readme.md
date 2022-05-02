@@ -1,4 +1,4 @@
-## 8 Week SQL Challenge - Week 1 - Danny's Diner
+## Week 1 - Danny's Diner
 <p align="center">
   <a href= 'https://8weeksqlchallenge.com/case-study-1/' target="_blank" rel="noopener noreferrer">
   <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width="500">
