@@ -68,6 +68,11 @@ Orders are assigned to runners after being received. However - they may be cance
 - duration: time taken to deliver pizza (after pickup) - null if cancelled
 - cancellation: flags order cancellation - null if order not cancelled
 
+<p align = 'center'>
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/84375882/169095649-f1a90e78-0ab1-4d67-9805-0c1fb1fef9f1.png">
+
+</p>
+
 #### Table 3: customer_orders
 
 Each row is an instance of a pizza in an order - an order may have multiple pizzas!
@@ -78,6 +83,10 @@ Each row is an instance of a pizza in an order - an order may have multiple pizz
 - exclusions: toppings to exclude from pizza
 - extras: toppings to be added to pizza
 - order_time: time order was placed
+
+<p align = 'center'>
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/84375882/169095460-142a64b9-66f8-4c11-97b0-6230ad28e12e.png">
+</p>
 
 #### Table 4: pizza_names
 
